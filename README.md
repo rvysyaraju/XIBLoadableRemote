@@ -1,0 +1,2 @@
+# XIBLoadableRemote
+SwiftPackage
